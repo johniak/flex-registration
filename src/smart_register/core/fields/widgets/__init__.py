@@ -4,3 +4,5 @@ from .editor import PythonEditor
 from .text import SmartTextWidget
 from .select import SmartSelectWidget
 from .radio import RadioWidget, YesNoRadioWidget
+from .image import ImageWidget
+from .upload_file import UploadFileWidget
